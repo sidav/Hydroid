@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:3:7-40
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:4:34-60
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:4:7-33
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:5:22-78
+uses-sdk
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:5-43
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:6:15-40
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:7:5-20:19
+	android:label
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:7:18-50
+	android:debuggable
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:9:18-44
+	android:icon
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:8:18-47
+activity#com.roguetemple.hydroid.Hydroid
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:10:9-19:20
+	android:label
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:11:19-51
+	android:windowSoftInputMode
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:12:19-61
+	android:configChanges
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:13:19-69
+	android:name
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:10:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/AndroidManifest.xml:17:27-74

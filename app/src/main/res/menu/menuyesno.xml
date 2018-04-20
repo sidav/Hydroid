@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/myes"
+          android:icon="@drawable/up"
+          android:title="YES" />
+    <item android:id="@+id/mno"
+          android:icon="@drawable/down"
+          android:title="NO" />
+    <item android:id="@+id/softkeyboard"
+          android:icon="@drawable/pickaxe"
+          android:title="Show keyboard" />
+    </menu>

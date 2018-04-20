@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/home/vkovun/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "libraries": {
+    "hydroid-debug-armeabi-v7a": {
+      "artifactName": "hydroid",
+      "buildCommand": "/home/vkovun/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/lib /home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libhydroid.so",
+      "abi": "armeabi-v7a",
+      "output": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libhydroid.so"
+    }
+  }
+}

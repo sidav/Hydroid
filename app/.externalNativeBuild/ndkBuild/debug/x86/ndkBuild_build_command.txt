@@ -1,0 +1,16 @@
+Executable : /home/vkovun/Android/Sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-21
+NDK_OUT=/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

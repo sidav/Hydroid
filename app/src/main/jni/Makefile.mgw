@@ -1,0 +1,5 @@
+# makefile for testing under MinGW
+
+hydroid.exe: hydroid.cpp hydroid/monster.cpp hydroid/weapons.cpp hydroid/level.cpp hydroid/hydra.cpp
+	g++ hydroid.cpp -o hydroid -DMINGW -DFAKE -lcurses
+

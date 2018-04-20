@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom1.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom1.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_slayernaga.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/slayernaga.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra12.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra12.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menugame.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menugame.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_giant1.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/giant1.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra20.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra20.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_slayer.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/slayer.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra19.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra19.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_twin.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/twin.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_trollclub.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/trollclub.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_decomp.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/decomp.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra27.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra27.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_bow.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/bow.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_blood.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/blood.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menuselect.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menuselect.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra16.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra16.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_blade.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/blade.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra9.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra9.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_slayerdead.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/slayerdead.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra35.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra35.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra1.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra1.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_divisor.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/divisor.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menuyesno.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menuyesno.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom4.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom4.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom9.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom9.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra24.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra24.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_potion.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/potion.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra13.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra13.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_giant2.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/giant2.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra26.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra26.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra30.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra30.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra32.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra32.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom2.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom2.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra2.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra2.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_dblade.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/dblade.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_slayercentaur.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/slayercentaur.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra8.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra8.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_scroll.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/scroll.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra17.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra17.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_spear.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/spear.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hexwall.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hexwall.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra23.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra23.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra10.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra10.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom5.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom5.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom8.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom8.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra5.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra5.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menutroll.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menutroll.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_giant3.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/giant3.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_logaems.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/logaems.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_bldisk.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/bldisk.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra3.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra3.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_star.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/star.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra25.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra25.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_wall.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/wall.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_titlescreen.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/titlescreen.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra33.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra33.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra14.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra14.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menugeneral.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menugeneral.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra22.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra22.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom6.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom6.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_wand.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/wand.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_shield.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/shield.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra18.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra18.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_pickaxe.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/pickaxe.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra6.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra6.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra29.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra29.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra11.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra11.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_erado.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/erado.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra4.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra4.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_axe.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/axe.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_rune.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/rune.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra28.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra28.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra15.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra15.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menutwin.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menutwin.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menuinv.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menuinv.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_floor.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/floor.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom7.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom7.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_qblade.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/qblade.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra21.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra21.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra34.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra34.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_target.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/target.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hexfloor.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hexfloor.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra7.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra7.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/menu_menuquit.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/menu/menuquit.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_corpse.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/corpse.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_club.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/club.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_mushroom3.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/mushroom3.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_gem.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/gem.png"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/res/merged/debug/drawable_hydra31.png.flat",
+        "source": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/res/drawable/hydra31.png"
+    }
+]

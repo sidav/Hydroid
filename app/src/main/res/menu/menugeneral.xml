@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mok"
+          android:title="Ok" />
+    <item android:id="@+id/mcancel"
+          android:title="Cancel" />
+    <item android:id="@+id/website"
+          android:icon="@drawable/divisor"
+          android:title="Help" />
+    <item android:id="@+id/softkeyboard"
+          android:icon="@drawable/pickaxe"
+          android:title="Show keyboard" />
+    </menu>

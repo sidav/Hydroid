@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/home/vkovun/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "hydroid-release-x86": {
+      "buildCommand": "/home/vkovun/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/lib /home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/obj/local/x86/libhydroid.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "hydroid",
+      "files": [
+        {
+          "src": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid.cpp",
+          "flags": "-gcc-toolchain /home/vkovun/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -fno-exceptions -fno-rtti -O2 -DNDEBUG -I/home/vkovun/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include -I/home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni -DANDROID -D__ANDROID_API__\u003d21 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot /home/vkovun/Android/Sdk/ndk-bundle/sysroot -isystem /home/vkovun/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android"
+        }
+      ],
+      "output": "/home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/release/obj/local/x86/libhydroid.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "/home/vkovun/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

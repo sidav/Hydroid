@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mscoresh"
+          android:icon="@drawable/scroll"
+          android:title="View scores" />
+    <item android:id="@+id/mreturn"
+          android:icon="@drawable/hydra7"
+          android:title="Return to game" />
+    <item android:id="@+id/mnewgame"
+          android:icon="@drawable/hydra1"
+          android:title="Start a new game" />
+    <item android:id="@+id/website"
+          android:icon="@drawable/divisor"
+          android:title="Help" />
+    <item android:id="@+id/msavegame"
+          android:icon="@drawable/shield"
+          android:title="Save game and quit" />
+    <item android:id="@+id/quit"
+          android:icon="@drawable/corpse"
+          android:title="Quit without saving" />
+    <item android:id="@+id/quitnorec"
+          android:icon="@drawable/blood"
+          android:title="Delete character" />
+    <item android:id="@+id/softkeyboard"
+          android:icon="@drawable/pickaxe"
+          android:title="Show keyboard" />
+    </menu>

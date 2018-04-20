@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mscores"
+          android:icon="@drawable/scroll"
+          android:title="View scores" />
+    <item android:id="@+id/setdirs"
+          android:icon="@drawable/star"
+          android:title="Change directions" />
+    <item android:id="@+id/quit"
+          android:title="Quit game!" />
+    <item android:id="@+id/mchangerace"
+          android:icon="@drawable/twin"
+          android:title="Change race" />
+    <item android:id="@+id/mplaygame"
+          android:icon="@drawable/slayer"
+          android:title="Play!" />
+    </menu>
