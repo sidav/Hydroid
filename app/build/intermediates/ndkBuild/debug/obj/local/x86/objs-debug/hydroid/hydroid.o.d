@@ -1,5 +1,7 @@
 /home/vkovun/AndroidStudioProjects/hydroid_AS/app/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/hydroid/hydroid.o: \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid.cpp \
+  /home/vkovun/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include/cmath \
+  /home/vkovun/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include/cstddef \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/hydra.cpp \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/utils.cpp \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/data.cpp \
@@ -12,6 +14,10 @@
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/achieve.cpp \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/mainmenu.cpp \
   /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/ui.cpp
+
+/home/vkovun/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include/cmath:
+
+/home/vkovun/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include/cstddef:
 
 /home/vkovun/AndroidStudioProjects/hydroid_AS/app/src/main/jni/hydroid/hydra.cpp:
 

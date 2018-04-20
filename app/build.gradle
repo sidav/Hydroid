@@ -1,15 +1,12 @@
 apply plugin: 'com.android.application'
-
 android {
-    compileSdkVersion 7
+    compileSdkVersion 24
     buildToolsVersion "27.0.3"
-
     defaultConfig {
         applicationId "com.roguetemple.hydroid"
-        minSdkVersion 21
-        targetSdkVersion 7
+        minSdkVersion 24
+        targetSdkVersion 24
     }
-
     buildTypes {
         release {
             minifyEnabled false
@@ -21,4 +18,9 @@ android {
             path 'src/main/jni/Android.mk'
         }
     }
+    productFlavors {
+    }
+}
+
+dependencies {
 }
